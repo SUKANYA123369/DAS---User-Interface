@@ -88,7 +88,7 @@ Install all required Python packages listed in the [`requirements.txt`](requirem
 
 ### Output Preview
 
-You can the view the output screenshot here ['DAS-UI .png']('DAS-UI.png')
+You can the view the output screenshot here ['DAS-UI.png'](DAS-UI.png)
 
 
 ## Conclusion
