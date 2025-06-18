@@ -28,7 +28,7 @@ This project is a Streamlit-based web interface that allows users to process and
 
 ### Configuration
 
-The configuration file is located at: [`config/config.py`](config/config.py)
+The configuration file is located at: [`config.py`](config.py)
 
 This file contains the following settings:
 
@@ -42,7 +42,7 @@ This file contains the following settings:
 
 ### Logging
 
-The logging configuration is defined in: [`log_utils/logger_setup.py`](log_utils/logger_setup.py)
+The logging configuration is defined in: [`logger_setup.py`](logger_setup.py)
 
 This module sets up a flexible logging system that:
 
@@ -53,7 +53,7 @@ This module sets up a flexible logging system that:
 
 ### Execution Manager
 
-Main execution logic is implemented in: [`spark_job/execution_manager.py`](spark_job/execution_manager.py)
+Main execution logic is implemented in: [`execution_manager.py`](execution_manager.py)
 
 This class automates the execution of Python scripts stored in HDFS and tracks their statuses in MongoDB. It includes:
 
@@ -70,7 +70,7 @@ This class automates the execution of Python scripts stored in HDFS and tracks t
 
 ### Streamlit UI
 
-The main entry point for the Streamlit dashboard is: [`streamlit_app/app.py`](streamlit_app/app.py)
+The main entry point for the Streamlit dashboard is: [`app.py`](app.py)
 
 This lightweight UI allows users to:
 
