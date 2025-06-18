@@ -86,9 +86,6 @@ The interface uses the `ExecutionManager` class for backend logic.
 
 Install all required Python packages listed in the [`requirements.txt`](requirements.txt) file.
 
-### .gitignore
-
-[.gitignore](.gitignore) – Specifies files and directories to be excluded from version control (e.g., `__pycache__`, log files, environment files).
 
 ## Conclusion
 
