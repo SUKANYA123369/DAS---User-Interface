@@ -33,10 +33,10 @@ The configuration file is located at: [`config.py`](config.py)
 This file contains the following settings:
 
 - **HDFS URL**: `http://localhost:50070`  
-- **HDFS Directory**: `/my_project/scripts`  
+- **HDFS Directory**: `HDFS directory`  
 - **MongoDB URI**: Connects to MongoDB Atlas cluster  
-- **MongoDB Database**: `project`  
-- **MongoDB Collection**: `sample`
+- **MongoDB Database**: `Database name`  
+- **MongoDB Collection**: `collection`
 
 > 📌 This configuration sets up connections for HDFS and MongoDB, enabling data storage and retrieval for the application.
 
