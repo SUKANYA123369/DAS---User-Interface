@@ -86,6 +86,10 @@ The interface uses the `ExecutionManager` class for backend logic.
 
 Install all required Python packages listed in the [`requirements.txt`](requirements.txt) file.
 
+### Output Preview
+
+You can the view the output screenshot here ['DAS-UI.png']('DAS-UI.png')
+
 
 ## Conclusion
 
@@ -96,4 +100,4 @@ With real-time monitoring via Streamlit, execution tracking in MongoDB, and deta
 - Traceability of job status  
 - Reliability across the entire workflow
 
-#pulling data into feature_ansel
+
